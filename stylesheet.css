@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Inria+Sans:wght@400;700&family=Inria+Serif:wght@400;700&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    color: #334E68;
+}
+
+.main-header {
+    display: block;
+    margin: auto;
+    background-color: #2680C2;
+    font-family: "Inria Sans";
+    color: #F0F4F8;
+}
+
+.main-header-title {
+    font-weight: 700;
+    padding-top: 5rem;
+    padding-left: 12rem;
+    margin: 0;
+    font-size: 2rem;
+}
+
+.main-header-subtitle {
+    margin: 0;
+    font-size: 1.25rem;
+    padding-left: 12rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.main-header-body {
+    font-family: "Inria Serif";
+    margin: 0;
+    font-size: 1rem;
+    padding-left: 12rem;
+    padding-bottom: 2rem;
+}
+
+.toc {
+    margin-bottom: 1.5rem;
+}
+
+.toc-header {
+    font-weight: 700;
+    padding-top: 5rem;
+    padding-left: 12rem;
+    margin: 0;
+    font-size: 2rem;
+    font-family: "Inria Sans";
+    padding-bottom: 2rem;
+}
+
+.toc-link {
+    font-family: "Inria Sans";
+    font-size: 1.25rem;
+    padding-left: 14rem;
+    display: block;
+    margin: auto;
+    padding-bottom: 1.5rem;
+}
+
+.body {
+    font-family: "Inria Serif";
+    display: block;
+    font-size: 14px;
+    text-align: justify;
+    line-height: 1.5rem;
+    width: 72ch;
+    margin: auto;
+    padding-bottom: 1rem;
+}
+
+.body-header {
+    font-family: "Inria Sans";
+    font-size: 1.25rem;
+    padding-left: 14rem;
+    display: block;
+    margin: auto;
+    padding-bottom: 1.5rem;
+    font-weight: 700;
+}
+
+.image {
+    display: block;
+    max-width: 80%;
+    margin: auto;
+    margin-bottom: 2rem;
+}
