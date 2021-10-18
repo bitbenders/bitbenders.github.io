@@ -87,7 +87,7 @@ body {
 
 .image {
     display: block;
-    max-width: 80%;
+    max-width: 50%;
     margin: auto;
     margin-bottom: 2rem;
 }
